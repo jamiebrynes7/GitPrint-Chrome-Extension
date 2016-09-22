@@ -6,7 +6,9 @@ GitPrint allows you to print or render to PDF any GitHub markdown file for easy 
 
 ##To Install
 
-The chrome extension is not on the Chrome Web Store yet, however, it can easily be side-loaded. This extension will soon be made available on the Chrome Web Store.
+The chrome extension is now available on the Chrome Web Store yet! Find it [here](https://chrome.google.com/webstore/detail/gitprint/igmdhkjenljbkggljeobknjgehilnjmp?hl=en-US&gl=US)! 
+
+It can also easily be side-loaded. This extension will soon be made available on the Chrome Web Store.
 
 1. Clone this repository into a directory of your choice.
 2. Visit chrome://extensions in your browser.
